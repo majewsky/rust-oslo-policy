@@ -1,0 +1,13 @@
+[package]
+name = "oslo-policy"
+description = "A parser and evaluation engine for oslo.policy rule files"
+version = "0.1.0"
+edition = "2021"
+authors = ["Stefan Majewsky <majewsky@gmx.net>"]
+readme = "README.md"
+homepage = "https://github.com/majewsky/rust-oslo-policy"
+license = "Apache-2.0"
+keywords = ["openstack", "rbac", "access-control", "policy"]
+categories = ["authentication", "config"]
+
+[dependencies]
