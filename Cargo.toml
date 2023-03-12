@@ -11,3 +11,5 @@ keywords = ["openstack", "rbac", "access-control", "policy"]
 categories = ["authentication", "config"]
 
 [dependencies]
+peg = "0.8"
+thiserror = "1"
