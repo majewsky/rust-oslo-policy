@@ -9,6 +9,7 @@ homepage = "https://github.com/majewsky/rust-oslo-policy"
 license = "Apache-2.0"
 keywords = ["openstack", "rbac", "access-control", "policy"]
 categories = ["authentication", "config"]
+exclude = ["Makefile", ".gitignore"]
 
 [dependencies]
 peg = "0.8"
